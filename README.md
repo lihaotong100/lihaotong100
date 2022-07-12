@@ -15,6 +15,8 @@
 
 #### Wanna say hi?
 [![Linkedin](https://img.shields.io/badge/oliver-0077B5?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/zhao-zi-xiang-oliver-56182111a/)](https://www.linkedin.com/in/zhao-zi-xiang-oliver-56182111a/)
+[![Gmail](https://img.shields.io/badge/lihaotong10@gmail.com-D93025?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:lihaotong10@gmail.com)](mailto:lihaotong10@gmail.com)
+
 
 [![Paypal](https://img.shields.io/badge/Buy%20me%20a%20coffee-005EA6?style=flat-square&logo=paypal&logoColor=fff&link=https://www.paypal.me/lihaotong100/)](https://www.paypal.me/lihaotong100/)
 
