@@ -14,4 +14,8 @@
 </a>
 
 #### Wanna say hi?
+[![Linkedin](https://img.shields.io/badge/oliver-0077B5?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/zhao-zi-xiang-oliver-56182111a/)](https://www.linkedin.com/in/zhao-zi-xiang-oliver-56182111a/)
+
+[![Paypal](https://img.shields.io/badge/Buy%20me%20a%20coffee-005EA6?style=flat-square&logo=paypal&logoColor=fff&link=https://www.paypal.me/lihaotong100/)](https://www.paypal.me/lihaotong100/)
+
 [![views](https://komarev.com/ghpvc/?username=lihaotong100&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/lihaotong100/)
