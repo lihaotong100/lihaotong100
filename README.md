@@ -1,6 +1,6 @@
 ## Hello World 👋🏼, I'm Oliver 🐱‍💻
 
-###### Sun Yat-sen university Bachelor and Hong Kong Metropolitan University Master, a full-stack developer by day, and a reader by night.
+###### Sun Yat-sen university Bachelor, University of London Bachelor Hong Kong Metropolitan University Master, a full-stack developer by day, and a reader by night.
 
 ###### I' into learning new stuff. A big fan in coding and sharing.
 
