@@ -18,5 +18,7 @@ I build Java/Spring Boot services, reusable delivery pipelines, and production-o
 - **Physica Health** — AI-assisted personal health platform built and shipped independently.
 - **Developer Platform Projects** — CI/CD orchestration, reusable pipelines, and engineering automation.
 
-## Portiflio
-https://www.hey-oliver.com
+## Contact
+
+- Portfolio: https://www.hey-oliver.com/
+- LinkedIn: [[correct LinkedIn URL]](https://www.linkedin.com/in/chiu-tze-cheung-oliver-56182111a/?skipRedirect=true)
