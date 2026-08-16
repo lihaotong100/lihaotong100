@@ -1,23 +1,22 @@
-## Hello World 👋🏼, I'm Oliver 🐱‍💻
+# Hi, I'm Oliver Chiu
 
-###### Sun Yat-sen university Bachelor, University of London Bachelor and Hong Kong Metropolitan University Master, a full-stack developer by day, and a reader by night.
+Senior Java & Platform Engineer based in Hong Kong, with 8+ years of experience in backend engineering, CI/CD, DevSecOps, and developer platforms.
 
-###### I' into learning new stuff. A big fan in coding and sharing.
+I build Java/Spring Boot services, reusable delivery pipelines, and production-oriented systems with a focus on reliability, automation, and developer experience.
 
-#### Activities
+## Core Expertise
 
-<a href="https://github.com/lihaotong100/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihaotong100&layout=compact&theme=omni&hide=html,css" alt="Oliver's most used languages" />
-</a>
-<a href="https://github.com/lihaotong100/">
-  <img align="center" height=170 width=450 src="https://github-readme-stats.vercel.app/api?username=lihaotong100&show_icons=true&theme=omni&count_private=true&include_all_commits=true" alt="Oliver Stats" />
-</a>
+- Java 8/17, Spring Boot, REST APIs, MyBatis, Kafka, Redis
+- GitLab CI/CD, Docker, Kubernetes, SonarQube
+- Platform engineering, pipeline orchestration, artifact lifecycle management
+- React, Python, Go, SQL, Bash
+- AI agent workflows, MCP servers, and reusable agent skills
 
-#### Wanna say hi?
-[![Linkedin](https://img.shields.io/badge/oliver-0077B5?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/zhao-zi-xiang-oliver-56182111a/)](https://www.linkedin.com/in/zhao-zi-xiang-oliver-56182111a/)
-[![Gmail](https://img.shields.io/badge/lihaotong10@gmail.com-D93025?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:lihaotong10@gmail.com)](mailto:lihaotong10@gmail.com)
+## Featured Work
 
+- **Java Reliability Lab** — Transactional money-movement service demonstrating idempotency, concurrency control, transactional outbox, observability, and failure testing.
+- **Physica Health** — AI-assisted personal health platform built and shipped independently.
+- **Developer Platform Projects** — CI/CD orchestration, reusable pipelines, and engineering automation.
 
-[![Paypal](https://img.shields.io/badge/Buy%20me%20a%20coffee-005EA6?style=flat-square&logo=paypal&logoColor=fff&link=https://www.paypal.me/lihaotong100/)](https://www.paypal.me/lihaotong100/)
-
-[![views](https://komarev.com/ghpvc/?username=lihaotong100&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/lihaotong100/)
+## Portiflio
+https://www.hey-oliver.com
